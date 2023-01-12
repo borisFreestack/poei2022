@@ -1,4 +1,4 @@
-package org.centralenantes.poei2;
+package org.centralenantes.poei2.boris;
 
 import java.util.Scanner;
 
